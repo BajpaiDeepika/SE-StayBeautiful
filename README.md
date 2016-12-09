@@ -1,4 +1,5 @@
- SE-StayBeautiful
+ 
+SE-StayBeautiful
  This is created as part of the Software Engineering coursework(P565) at IUB.
  
  StayBeautiful.com is a complete ecommerce website created using HTML,CSS, JavaScript, PHP and MySQL as database.
@@ -13,9 +14,9 @@
     2.Buyre
     3.Seller
  2. Dashboards with statistics for three different roles:
-     1. Admin
-     2. Buyer
-     3. Seller
+    1. Admin
+    2. Buyer
+    3. Seller
     
  3.Inventory Management System
  4. Search using search bar
@@ -30,7 +31,7 @@
  More information can be found on the user manual.
 
  Team members:
- Deepika Bajpai,
- Vaishali Sainaath,
- Akshada More,
+ Deepika Bajpai
+ Vaishali Sainaath
+ Akshada More
  Niteesh Kumar Akurati
