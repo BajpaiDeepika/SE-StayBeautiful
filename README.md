@@ -10,22 +10,22 @@ SE-StayBeautiful
   
  Important features:
  1. Registration and login for three different roles:
-    1.Admin
-    2.Buyre
-    3.Seller
+    a.Admin
+    b.Buyer
+    c.Seller
  2. Dashboards with statistics for three different roles:
-    1. Admin
-    2. Buyer
-    3. Seller
- 4.Inventory Management System
- 5. Search using search bar
- 6. Filter products
- 7. Product Description
- 8. Review ratings
- 9. Product zoom
- 10. Shhopping Cart 
- 11. Checkout and Dummy Payment and order confirmation with currency converter
- 12. Customer Support.
+    a. Admin
+    b. Buyer
+    c. Seller
+ 3. Inventory Management System
+ 4. Search using search bar
+ 5. Filter products
+ 6. Product Description
+ 7. Review ratings
+ 8. Product zoom
+ 9. Shhopping Cart 
+ 10. Checkout and Dummy Payment and order confirmation with currency converter
+ 11. Customer Support.
  
  More information can be found on the user manual.
 
