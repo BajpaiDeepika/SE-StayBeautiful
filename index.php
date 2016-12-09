@@ -341,14 +341,16 @@ session_start();
 <!-- start image1_of_3 -->
 <div class="top_bg">
 <div class="wrap">
+<h2 style="color:white">Featured Products</h2>
 <div class="main1">
+	
 	<div class="image1_of_3">
 		<img src="images1/img1.jpg" alt=""/>
-	    <a href="http://localhost/StayBeautiful/Prod_Desc.php?itemid=1"><span class="tag">on sale</span></a>
+	    <a href="http://localhost/StayBeautiful/Prod_Desc.php?itemid=1"><span class="tag">on sale - 50% Off</span></a>
 	</div>
 	<div class="image1_of_3">
 		<img src="images1/img2.jpg" alt=""/>
-		<a href="http://localhost/StayBeautiful/Prod_Desc.php?itemid=2"><span class="tag">special offers</span></a>
+		<a href="http://localhost/StayBeautiful/Prod_Desc.php?itemid=2"><span class="tag">special offers-20% Off</span></a>
 	</div>
 	<div class="image1_of_3">
 		<img src="images1/img3.jpg" alt=""/>
