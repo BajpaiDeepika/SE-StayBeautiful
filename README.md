@@ -17,7 +17,6 @@ SE-StayBeautiful
     1. Admin
     2. Buyer
     3. Seller
-    
  3.Inventory Management System
  4. Search using search bar
  5. Filter products
@@ -31,7 +30,4 @@ SE-StayBeautiful
  More information can be found on the user manual.
 
  Team members:
- Deepika Bajpai
- Vaishali Sainaath
- Akshada More
- Niteesh Kumar Akurati
+ Deepika Bajpai,Vaishali Sainaath,Akshada More,Niteesh Kumar Akurati
