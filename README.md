@@ -9,13 +9,13 @@
   
  Important features:
  1. Registration and login for three different roles:
- -    1.Admin
- -    2.Buyre
- -    3.Seller
+    1.Admin
+    2.Buyre
+    3.Seller
  2. Dashboards with statistics for three different roles:
- -    1. Admin
- -    2. Buyer
- -    3. Seller
+     1. Admin
+     2. Buyer
+     3. Seller
     
  3.Inventory Management System
  4. Search using search bar
@@ -29,8 +29,8 @@
  
  More information can be found on the user manual.
 
- -Team members:
- -Deepika Bajpai,
- -Vaishali Sainaath,
- -Akshada More,
- -Niteesh Kumar Akurati
+ Team members:
+ Deepika Bajpai,
+ Vaishali Sainaath,
+ Akshada More,
+ Niteesh Kumar Akurati
