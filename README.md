@@ -1,14 +1,36 @@
-# jQuery: a shopping cart with sessionStorage
+ SE-StayBeautiful
+ -This is created as part of the Software Engineering coursework(P565) at IUB.
+ 
+ -StayBeautiful.com is a complete ecommerce website created using HTML,CSS, JavaScript, PHP and MySQL as database.
 
-I've built this shopping cart after completing a web project where I had to completely rewrite an e-commerce cart. This project also includes PayPal payments.
-
-This is a proof-of-concept and is not intended to replace existing server-side techniques. 
-
-Bear in mind that there are a few things you need to change on the main `jquery.shop.js` file, namely:
-
-* The type of PayPal's cart.
-* Your business email address.
-* The URL of the PayPal's form.
-* The way shipping charges are calculated.
-
-Hope you find this useful.
+ -Please access the website using the link:
+ -http://ella.ils.indiana.edu/~vsainaat/xampp/htdocs/SE/StayBeautiful/
+ 
+  
+ -Important features:
+ -1. Registration and login for three different roles:
+ -    1.Admin
+ -    2.Buyre
+ -    3.Seller
+ -2. Dashboards with statistics for three different roles:
+ -    1. Admin
+ -    2. Buyer
+ -    3. Seller
+ -    
+ -3.Inventory Management System
+ -4. Search using search bar
+ -5. Filter products
+ -6. Product Description
+ -7. Review ratings
+ -8. Product zoom
+ -9. Shhopping Cart 
+ -10. Checkout and Dummy Payment and order confirmation with currency converter
+ -11. Customer Support.
+ -
+ -More information can be found on the user manual.
+ -
+ -Team members:
+ -Deepika Bajpai,
+ -Vaishali Sainaath,
+ -Akshada More,
+ -Niteesh Kumar Akurati
